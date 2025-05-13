@@ -1,5 +1,5 @@
 # Counter Program
-This is a basic web application that implements a simple counter with Increase, Decrease and Reset functionality using HTML, CSS and JavaScript.
+This is a basic web application that implements a simple counter with increase, decrease and reset functionality using HTML, CSS and JavaScript.
 
 ## Features
 * Display of a numerical count
